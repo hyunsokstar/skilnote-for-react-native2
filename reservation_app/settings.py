@@ -12,7 +12,7 @@ SECRET_KEY = 'qki)d54cmpt_v7b5m07qh$d#o3j6#pm3gi=po&)b2a59$e859x'
 DEBUG = True
 # ALLOWED_HOSTS = []
 # ALLOWED_HOSTS = ['158.247.227.197', '127.0.0.1',
-#                  'www.skilnote-for-jpa.co.kr', 'skilnote-for-innotree.co.kr']
+#                  'www.skilnote-for-react-native.shop', 'skilnote-for-innotree.co.kr']
 ALLOWED_HOSTS = ['158.247.236.187','127.0.0.1', 'www.skilnote-for-react-native.shop', 'skilnote-for-react-native.shop', '141.164.51.42']
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
