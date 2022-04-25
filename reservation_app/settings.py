@@ -13,7 +13,7 @@ DEBUG = True
 # ALLOWED_HOSTS = []
 # ALLOWED_HOSTS = ['158.247.227.197', '127.0.0.1',
 #                  'www.skilnote-for-jpa.co.kr', 'skilnote-for-innotree.co.kr']
-ALLOWED_HOSTS = ['141.164.51.42.vultrusercontent.com','127.0.0.1', 'www.skilnote-for-react-native.shop', 'skilnote-for-react-native.shop']
+ALLOWED_HOSTS = ['141.164.51.42','127.0.0.1', 'www.skilnote-for-react-native.shop', 'skilnote-for-react-native.shop', '141.164.51.42.vultrusercontent.com']
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
 # Application definition
